@@ -44,6 +44,7 @@ footer {
   color: #fff;
   text-align: center;
   padding: 15px 0;
+  ali
 }
 
 .info {
@@ -62,4 +63,8 @@ footer {
 .contact {
   text-align: right;
   margin-right: 20px;
+}
+
+.information {
+  text-align: center;
 }
